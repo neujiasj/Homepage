@@ -15,7 +15,7 @@ TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scena
 
 UM3: Unsupervised Map to Map Matching, 被GIS国际顶会ACM SIGSPATIAL 2025录用, https://arxiv.org/abs/2508.16874
 
-#### 专利，申请了四十余项相关专利，部分已授权如下：
+### 专利，申请了四十余项相关专利，部分已授权如下：
 WO2022266996A1-JP7591670B2《物体検知方法及び物体検知装置》
 
 CN111126204B《可行驶区域检测方法及相关设备》
